@@ -2,7 +2,7 @@
 	"name": "com.24steps.ui5sample",
 	"version": "1.0.0",
 	"description": "UI5 Application: com.24steps.ui5sample",
-	"author": "Marsmanni",
+	"author": "blackforest24",
 	"license": "Apache-2.0",
 	"scripts": {
 		"clean": "rimraf dist coverage",

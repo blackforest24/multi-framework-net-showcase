@@ -3,7 +3,7 @@
     "namespace": "com.24steps.ui5sample",
     "framework": "OpenUI5",
     "frameworkVersion": "1.143.0",
-    "author": "Marsmanni",
+    "author": "blackforest24",
     "tstypes": "@openui5/types",
     "tstypesVersion": "1.143.0",
     "appId": "com.24steps.ui5sample",
